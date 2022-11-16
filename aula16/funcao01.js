@@ -1,9 +1,9 @@
-function parimpar(n) {
-    if (n%2 != 0) {
+function parimp(n) {
+    if (n % 2 != 0) {
         return 'Impar!'
     } else {
-        return 'Par!'
+       return 'Par!'
     }
 }
 
-console.log(parimpar(11))
+ console.log(parimp(4))
